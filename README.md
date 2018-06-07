@@ -8,6 +8,6 @@
 
 <!-- After fasting -->
 
-- At the bottom of page 14, there is a toString() method from apache commons, import this library and write some examples
+- At the bottom of page 17, there's a equals() method from apache commons, try it
 
 <!-- //After fasting -->
