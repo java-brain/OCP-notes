@@ -10,4 +10,6 @@
 
 - At the bottom of page 17, there's a equals() method from apache commons, try it
 
+- Code out examples of hashCode() (explanations end on page 20)
+
 <!-- //After fasting -->
