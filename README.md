@@ -1,4 +1,4 @@
-- Continue page 22 (+-74/723), heading "Adding Constructors, Fields, and Methods"
+- Continue page 24 (+-76/723), heading "Creating Nested Classes"
     - Completed this tutorial on enums: https://www.mkyong.com/java/java-enum-example/ 
     
 - the 'method signature' is the method name and the parameter list     
