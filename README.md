@@ -1,4 +1,4 @@
-- Continue top of page 20 (68/723)
+- Continue page 22 (+-74/723), heading "Adding Constructors, Fields, and Methods"
     - Completed this tutorial on enums: https://www.mkyong.com/java/java-enum-example/ 
     
 - the 'method signature' is the method name and the parameter list     
