@@ -1,4 +1,4 @@
-- Continue page 24 (+-76/723), heading "Creating Nested Classes"
+- Continue page 26 (+-78/723), after block titled ".class Files for Inner Classes"
     - Completed this tutorial on enums: https://www.mkyong.com/java/java-enum-example/ 
     
 - the 'method signature' is the method name and the parameter list     
@@ -7,8 +7,8 @@
 
 - @Override is allowed only when referencing a method. Just as there is no such thing as overriding a field, the annotation cannot be used on a field either.
 
-<!-- After fasting -->
+<!-- Parking lot -->
 
 - Code out examples of hashCode() (explanations end on page 20)
 
-<!-- //After fasting -->
+<!-- //Parking lot -->
