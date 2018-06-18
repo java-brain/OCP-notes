@@ -1,4 +1,4 @@
-- Continue page 26 (+-78/723), after block titled ".class Files for Inner Classes"
+- Continue page 29 (+-78/723), after block titled ".class Files for Inner Classes"
     - Completed this tutorial on enums: https://www.mkyong.com/java/java-enum-example/ 
     
 - the 'method signature' is the method name and the parameter list     
