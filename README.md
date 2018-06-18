@@ -1,4 +1,4 @@
-- Continue top page 29 (+-78/723)
+- Continue page 29 (+-81/723) from heading "Anonymous Inner Classes"
     - Completed this tutorial on enums: https://www.mkyong.com/java/java-enum-example/ 
     
 - the 'method signature' is the method name and the parameter list     
