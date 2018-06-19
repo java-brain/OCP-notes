@@ -1,4 +1,4 @@
-- Continue page 32 (+-84/723) from heading "Importing a static Nested Class"
+- Continue page 32 (+-88/723) from heading "Review questions"
     - Completed this tutorial on enums: https://www.mkyong.com/java/java-enum-example/ 
     
 - the 'method signature' is the method name and the parameter list     
