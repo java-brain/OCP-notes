@@ -9,6 +9,4 @@
 
 <!-- Parking lot -->
 
-- Code out examples of hashCode() (explanations end on page 20)
-
 <!-- //Parking lot -->
