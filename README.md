@@ -7,6 +7,9 @@
 
 - @Override is allowed only when referencing a method. Just as there is no such thing as overriding a field, the annotation cannot be used on a field either.
 
+- Inner classes are not allowed to contain static methods or static variables. Only nested static classes are permitted to contain statics. Refer to question 8 from chapter 1 review questions for an example.
+
 <!-- Parking lot -->
 
 <!-- //Parking lot -->
+
