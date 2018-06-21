@@ -1,4 +1,4 @@
-- Continue page 38 (+-90/723) from question 5
+- Continue page 40 (+-92/723) from question 10
     - Completed this tutorial on enums: https://www.mkyong.com/java/java-enum-example/ 
     
 - the 'method signature' is the method name and the parameter list     
