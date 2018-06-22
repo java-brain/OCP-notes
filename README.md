@@ -1,5 +1,6 @@
-- Continue page 51 (+-103/723) from top
-    - Completed this tutorial on enums: https://www.mkyong.com/java/java-enum-example/ 
+- Continue page 52 (+-103/723) from heading "Introducing Functional Programming"
+
+- Simple tutorial on enums: https://www.mkyong.com/java/java-enum-example/ 
     
 - the 'method signature' is the method name and the parameter list     
 
