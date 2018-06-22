@@ -1,4 +1,4 @@
-- Continue page 42 (+-94/723) from question 13
+- Continue page 50 (+-102/723) from top
     - Completed this tutorial on enums: https://www.mkyong.com/java/java-enum-example/ 
     
 - the 'method signature' is the method name and the parameter list     
@@ -9,9 +9,9 @@
 
 - Inner classes are not allowed to contain static methods or static variables. Only nested static classes are permitted to contain statics. Refer to question 8 from chapter 1 review questions for an example.
 
-- A reminder about interfaces: An interface is an abstract data type, similar to a class that defines a list of public abstract methods that any class implementing the interface must provide. 
+- A reminder about interfaces: An interface is an abstract data type, similar to a class that defines a list of public abstract methods that any class implementing the interface must provide. An interface may also include constant public static final variables, default methods, and static methods. 
 
-An interface may also include constant public static final variables, default methods, and static methods. 
+- The compiler automatically adds 'public' to all interface methods and 'abstract' to all (non-static and non-default) methods, if the developer does not provide them.
 
 <!-- Parking lot -->
 
