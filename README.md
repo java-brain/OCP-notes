@@ -21,6 +21,3 @@
 <!-- Parking lot -->
 
 <!-- //Parking lot -->
-	
-	- First indented line
-	- Second indented line
