@@ -21,5 +21,3 @@
 <!-- Parking lot -->
 
 <!-- //Parking lot -->
-
-- Initial commit
