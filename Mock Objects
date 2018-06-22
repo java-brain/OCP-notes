@@ -18,3 +18,6 @@ public class DummyRaceManager implements RaceManager {
     return animals==null || animals.size()==0 ? null: animals.get(0);
   }
 }
+
+The code isn't particularly intelligent; after all it just returns the first item in the list, but it is useful for testing 
+purposes because it allows your team to execute your code while the other team finishes their implementation.
