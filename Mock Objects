@@ -1,0 +1,20 @@
+Suppose you are working on a racing application with the code that calculates the winners handled by a different team. 
+Both your team and the other team agreed on a RaceManager interface, as shown in the following code, with your team 
+using the interface and the other team implementing it:
+
+public class Animal {}
+public class Tortoise extends Animal {}
+public class Hare extends Animal {}
+public interfacae RaceManager {
+  public Animal getWinner(List<Animal> animals);
+}
+
+The good news is that your team has finished its part of the project first. The bad news is that the other team has nothing 
+for you to test with. While waiting for the other team to finish, you can create a mock version of the RaceManager class, 
+as shown in the following sample code:
+
+public class DummyRaceManager implements RaceManager {
+  public Animal getWinner(List<Animal> animals) {
+    return animals==null || animals.size()==0 ? null: animals.get(0);
+  }
+}
