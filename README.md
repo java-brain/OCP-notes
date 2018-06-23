@@ -1,4 +1,4 @@
-- Continue page 52 (+-103/723) from heading "Introducing Functional Programming"
+- Continue page 55 (+-107/723) from heading "Introducing Functional Programming"
 
 - Simple tutorial on enums: https://www.mkyong.com/java/java-enum-example/ 
     
