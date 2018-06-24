@@ -1,4 +1,4 @@
-- Continue page 55 (+-107/723) from heading "Introducing Functional Programming"
+- Continue page 60 (+-112/723) from top "Applying the Predicate Interface"
 
 - Simple tutorial on enums: https://www.mkyong.com/java/java-enum-example/ 
     
