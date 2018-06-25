@@ -1,4 +1,4 @@
-- Continue page 60 (+-112/723) from top "Applying the Predicate Interface"
+- Continue page 62 (+-112/723) from top
 
 - Simple tutorial on enums: https://www.mkyong.com/java/java-enum-example/ 
     
