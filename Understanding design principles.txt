@@ -6,3 +6,9 @@ Following good design principles leads to
   * Code that is easier to understand
   * Classes that are easier to reuse in other relationships and applications
   * Code that is easier to maintain and that adapts more readily to changes in the application requirements
+
+Some design principles in Java:
+
+1) Encapsulating Data
+ * With encapsulation, a class is able to maintain certain invariants about its internal data. An invariant is a 
+   property or truth that is maintained even after the data is modified.
