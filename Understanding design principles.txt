@@ -12,3 +12,8 @@ Some design principles in Java:
 1) Encapsulating Data
  * With encapsulation, a class is able to maintain certain invariants about its internal data. An invariant is a 
    property or truth that is maintained even after the data is modified.
+   
+2) JavaBeans
+ * Encapsulation is so prevalent in Java that there is a standard for creating classes that store data, called JavaBeans. 
+   A JavaBean is a design principle for encapsulating data in an object in Java. 
+   JavaBean naming conventions are listed on page 69, in table 2.1
