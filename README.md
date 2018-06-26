@@ -18,6 +18,11 @@
 
 - Interfaces may not be marked final or instantiated directly. There are additional rules for default methods, such as Java failing to compile if a class or interface inherits two default methods with the same signature and doesn't provide its own implementation.
 
+- Object vs Reference
+    1) The type of the object determines which properties exist within the object in memory.
+    2) The type of the reference to the object determines which methods and variables are 
+       accessible to the Java program.
+
 <!-- Parking lot -->
 
 <!-- //Parking lot -->
