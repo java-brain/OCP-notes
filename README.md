@@ -1,4 +1,4 @@
-- Continue page 64 (+-116/723) from top
+- Continue page 68 (+-116/723) from top
 
 - Simple tutorial on enums: https://www.mkyong.com/java/java-enum-example/ 
     
