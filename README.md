@@ -1,4 +1,4 @@
-- Continue page 78 (+-130/723) from "Applying the Has-a Relationship"
+- Continue page 78 (+-130/723) after LlamaTrainer class
 
 - Simple tutorial on enums: https://www.mkyong.com/java/java-enum-example/ 
     
