@@ -1,4 +1,4 @@
-- Continue page 70 (+-122/723) from top
+- Continue page 71 (+-122/723) from "Applying the Is-a Relationship"
 
 - Simple tutorial on enums: https://www.mkyong.com/java/java-enum-example/ 
     
