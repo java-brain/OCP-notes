@@ -20,3 +20,18 @@ Some design principles in Java:
 
    Although boolean values use 'is' to start their getter method, the same does not apply to instances of the wrapper Boolean 
    class which use get.
+   
+   Example:
+   
+   Suppose you have the following private variables defined in your class:
+   
+   private boolean playing;
+   private boolean dancing;
+   
+   Which of the following could be correctly included in a JavaBean?
+   
+   public boolean isPlaying() { return playing; } // Correct
+   public boolean getPlaying() { return playing; } // Correct, since boolean may use 'is' or 'get'
+   public Boolean isDancing() { return dancing; } // Incorrect, a Boolean wrapper should start with 'get', since it is an Object
+   
+   
