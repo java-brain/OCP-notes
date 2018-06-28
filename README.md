@@ -1,4 +1,4 @@
-- Continue page 80 (+-132/723) after "Real World Scenario"
+- Continue page 81 (+-132/723) from "Real World Scenario Singletons with Double-Checked Locking" 
     - Going through db singleton example from (8m12s) https://www.youtube.com/watch?v=NZaXM67fxbs
 - Simple tutorial on enums: https://www.mkyong.com/java/java-enum-example/ 
     
