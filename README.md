@@ -1,4 +1,4 @@
-- Continue page 78 (+-130/723) after LlamaTrainer class
+- Continue page 80 (+-132/723) after "Real World Scenario"
     - Going through db singleton example from (8m12s) https://www.youtube.com/watch?v=NZaXM67fxbs
 - Simple tutorial on enums: https://www.mkyong.com/java/java-enum-example/ 
     
@@ -35,6 +35,14 @@
     application configuration data and reusable data caches are commonly implemented using singletons.
     Singletons may also be used to coordinate access to shared resources, such as coordinating write access
     to a file.
+    
+    - For the purposes of the exam, singletons are always unique. When you get to writing applications that
+    run across multiple computers, the static singleton solution starts to require special consideration, as
+    each computer would have its own JVM.
+    
+    In those situations, you might still use the singleton pattern, although it might be implemented with a 
+    database or queue server rather than as a static object. However the discussion of which to employ is 
+    beyond the scope of the exam.
 
 <!-- Parking lot -->
 
