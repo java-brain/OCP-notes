@@ -29,6 +29,12 @@
     3) The compiler will not allow casts to unrelated types
     4) Even when the code compiles without issue, an exception may be thrown at runtime if
        the object being cast is not actually an instance of that class.
+       
+- Singletons
+    - Used in situations where we need access to a single set of data throughout an application. For example,
+    application configuration data and reusable data caches are commonly implemented using singletons.
+    Singletons may also be used to coordinate access to shared resources, such as coordinating write access
+    to a file.
 
 <!-- Parking lot -->
 
