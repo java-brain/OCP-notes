@@ -1,4 +1,4 @@
-- Continue page 82 (+-134/723) from "Creating immutable objects" 
+- Continue page 83 (+-134/723) from the top "The fourth rule" 
     - Going through db singleton example from (8m12s) https://www.youtube.com/watch?v=NZaXM67fxbs
 - Simple tutorial on enums: https://www.mkyong.com/java/java-enum-example/ 
     
