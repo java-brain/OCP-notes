@@ -55,5 +55,6 @@
     5) Prevent methods from being overridden
 
 <!-- Parking lot -->
-
+- Revisit "Handling Mutable Objects in the Constructors of Immutable Objects" from the top of page 85, I don't get why 
+  this gives the ability to change the List...
 <!-- //Parking lot -->
