@@ -43,6 +43,16 @@
     In those situations, you might still use the singleton pattern, although it might be implemented with a 
     database or queue server rather than as a static object. However the discussion of which to employ is 
     beyond the scope of the exam.
+    
+- Creating Immutable Objects 
+    - Applying an Immutable Strategy:
+    Although there are a variety of techniques for writing an immutable class, you should be familiar with 
+    a common strategy for making a class immutable for the exam:
+    1) Use a constructor to set all properties of the object
+    2) Mark all of the instance variables 'private' and 'final'
+    3) Don't define any setter methods
+    4) Don't allow referenced mutable objects to be modified or accessed directly
+    5) Prevent methods from being overridden
 
 <!-- Parking lot -->
 
