@@ -1,4 +1,4 @@
-- Continue page 85 (+-134/723) from the top "Handling Mutable Objects in the Constructors of Immutable Objects" 
+- Continue page 86 (+-134/723) from "Using the Builder Pattern" 
     - Going through db singleton example from (8m12s) https://www.youtube.com/watch?v=NZaXM67fxbs
 - Simple tutorial on enums: https://www.mkyong.com/java/java-enum-example/ 
     
