@@ -1,4 +1,4 @@
-- Continue page 81 (+-132/723) from "Real World Scenario Singletons with Double-Checked Locking" 
+- Continue page 82 (+-134/723) from "Creating immutable objects" 
     - Going through db singleton example from (8m12s) https://www.youtube.com/watch?v=NZaXM67fxbs
 - Simple tutorial on enums: https://www.mkyong.com/java/java-enum-example/ 
     
