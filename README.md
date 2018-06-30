@@ -57,4 +57,8 @@
 <!-- Parking lot -->
 - Revisit "Handling Mutable Objects in the Constructors of Immutable Objects" from the top of page 85, I don't get why 
   this gives the ability to change the List...
+  
+- Although not required for the exam, find more examples of the builder pattern, the AnimalBuilder example does not show 
+  why adding more fields to the constructor (or however they choose to expand the class) is handled in a more 
+  maintainable manner.
 <!-- //Parking lot -->
