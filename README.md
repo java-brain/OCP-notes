@@ -57,6 +57,10 @@
 - A design principle is an established idea or best practice that facilitates the software design process:
     e.g. Encapsulating Data, Creating JavaBeans, Applying the  Is-a Relationship, Applying the Has-a Relationship
     and Composing Objects.
+    
+- A design pattern is an established general solution to a commonly occuring software development problem. 
+  e.g. The Singleton Pattern, Creating Immutable Objects, Using the Builder Pattern and creating Objects with
+  the Factory Pattern.
 
 <!-- Parking lot -->
 - Revisit "Handling Mutable Objects in the Constructors of Immutable Objects" from the top of page 85, I don't get why 
