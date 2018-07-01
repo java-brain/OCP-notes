@@ -53,6 +53,10 @@
     3) Don't define any setter methods
     4) Don't allow referenced mutable objects to be modified or accessed directly
     5) Prevent methods from being overridden
+    
+- A design principle is an established idea or best practice that facilitates the software design process:
+    e.g. Encapsulating Data, Creating JavaBeans, Applying the  Is-a Relationship, Applying the Has-a Relationship
+    and Composing Objects.
 
 <!-- Parking lot -->
 - Revisit "Handling Mutable Objects in the Constructors of Immutable Objects" from the top of page 85, I don't get why 
