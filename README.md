@@ -1,4 +1,4 @@
-- Continue page 101 (+-150/723) from Question 17 (for -> monday 2jul min amount complete)
+- Continue page 103 (+-155/723) from chapter 3
     - Going through db singleton example from (8m12s) https://www.youtube.com/watch?v=NZaXM67fxbs
 - Simple tutorial on enums: https://www.mkyong.com/java/java-enum-example/ 
     
