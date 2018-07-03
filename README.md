@@ -1,4 +1,4 @@
-- Continue page 103 (+-155/723) from chapter 3
+- Continue page 105 (+-155/723) from "Now, let’s review the link created when converting between an array and ArrayList"
     - Going through db singleton example from (8m12s) https://www.youtube.com/watch?v=NZaXM67fxbs
 - Simple tutorial on enums: https://www.mkyong.com/java/java-enum-example/ 
     
