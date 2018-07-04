@@ -1,4 +1,4 @@
-- Continue page 107 (+-159/723) from "Let’s try an example"
+- Continue page 109 (+-161/723) from "Generic Classes"
     - Going through db singleton example from (8m12s) https://www.youtube.com/watch?v=NZaXM67fxbs
 - Simple tutorial on enums: https://www.mkyong.com/java/java-enum-example/ 
     
