@@ -1,4 +1,4 @@
-- Continue page 106 (+-158/723) from "Let’s try that again with a List"
+- Continue page 107 (+-159/723) from "Let’s try an example"
     - Going through db singleton example from (8m12s) https://www.youtube.com/watch?v=NZaXM67fxbs
 - Simple tutorial on enums: https://www.mkyong.com/java/java-enum-example/ 
     
@@ -61,6 +61,21 @@
 - A design pattern is an established general solution to a commonly occuring software development problem. 
   e.g. The Singleton Pattern, Creating Immutable Objects, Using the Builder Pattern and creating Objects with
   the Factory Pattern.
+  
+- Autoboxing converts primitive to wrapper class
+
+- Unboxing converts a wrapper class back to a primitive
+
+- Primitive/Wrapper
+    boolean/Boolean
+    byte/Byte
+    short/Short
+    int/Integer *
+    long/Long
+    float/Float
+    double/Double
+    char/Character *
+    
 
 <!-- Parking lot -->
 - Revisit "Handling Mutable Objects in the Constructors of Immutable Objects" from the top of page 85, I don't get why 
