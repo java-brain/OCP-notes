@@ -1,4 +1,4 @@
-- Continue page 112 (+-161/723) from "Generic Interfaces"
+- Continue page 113 (+-165/723) from "Generic Interfaces"
     - Going through db singleton example from (8m12s) https://www.youtube.com/watch?v=NZaXM67fxbs
 - Simple tutorial on enums: https://www.mkyong.com/java/java-enum-example/ 
     
@@ -85,6 +85,11 @@
     * N for a number
     * T for a generic data type
     * S,U,V, and so forth for multiple generic types
+    
+- Important to double check what the book says, for example, the compiler warning on page 113, I'm unable to recreate...
+    mint@mint-Lenovo-YOGA-910-13IKB ~/IdeaProjects/untitled/src $ javac io/gen/ShippableRobotCrate.java
+    mint@mint-Lenovo-YOGA-910-13IKB ~/IdeaProjects/untitled/src $ java io/gen/ShippableRobotCrate
+    fine
 
 <!-- Parking lot -->
 - Revisit "Handling Mutable Objects in the Constructors of Immutable Objects" from the top of page 85, I don't get why 
