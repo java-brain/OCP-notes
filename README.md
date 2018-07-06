@@ -1,4 +1,4 @@
-- Continue page 113 (+-165/723) from "Generic Interfaces"
+- Continue page 115 (+-167/723) from "Remember that using generics gives us compile time safety"
     - Going through db singleton example from (8m12s) https://www.youtube.com/watch?v=NZaXM67fxbs
 - Simple tutorial on enums: https://www.mkyong.com/java/java-enum-example/ 
     
@@ -92,6 +92,9 @@
     fine
 
 - Although not needed for the exam, keep in mind what you can't do with generics (listed on page 113, "Real World Scenario")
+
+- Collections written without generics are also known as "raw collections".
+
 <!-- Parking lot -->
 - Revisit "Handling Mutable Objects in the Constructors of Immutable Objects" from the top of page 85, I don't get why 
   this gives the ability to change the List...
