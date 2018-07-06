@@ -1,4 +1,4 @@
-- Continue page 115 (+-167/723) from "Remember that using generics gives us compile time safety"
+- Continue page 117 (+-167/723) from "Bounds"
     - Going through db singleton example from (8m12s) https://www.youtube.com/watch?v=NZaXM67fxbs
 - Simple tutorial on enums: https://www.mkyong.com/java/java-enum-example/ 
     
