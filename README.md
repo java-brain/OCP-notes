@@ -122,4 +122,9 @@ public class Crate{
         return new Crate<T>();
     }
 }
+
+- $ javac *.java to compile all .java files within the location you're pointing to
+- javac -Xlint:unchecked *.java 
+    Passing this flag will elaborate on the warning
+
 <!-- //Parking lot -->
