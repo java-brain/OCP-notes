@@ -109,4 +109,14 @@ public class Crate<T> {
         return new Crate<T>();
     }
 }
+or like this: the class doesn't define a generic type, so it complains?
+package io.mypackage;
+
+public class Crate{
+
+    public <T> Crate<T> ship(T t) {
+        System.out.println("Preparing " + t);
+        return new Crate<T>();
+    }
+}
 <!-- //Parking lot -->
