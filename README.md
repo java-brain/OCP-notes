@@ -1,4 +1,4 @@
-- Continue page 117 (+-167/723) from "Bounds"
+- Continue page 118 (+-167/723) from "Unbounded wildcards"
     - Going through db singleton example from (8m12s) https://www.youtube.com/watch?v=NZaXM67fxbs
 - Simple tutorial on enums: https://www.mkyong.com/java/java-enum-example/ 
     
