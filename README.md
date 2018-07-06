@@ -91,6 +91,7 @@
     mint@mint-Lenovo-YOGA-910-13IKB ~/IdeaProjects/untitled/src $ java io/gen/ShippableRobotCrate
     fine
 
+- Although not needed for the exam, keep in mind what you can't do with generics (listed on page 113, "Real World Scenario")
 <!-- Parking lot -->
 - Revisit "Handling Mutable Objects in the Constructors of Immutable Objects" from the top of page 85, I don't get why 
   this gives the ability to change the List...
