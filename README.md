@@ -99,4 +99,14 @@
 - Although not required for the exam, find more examples of the builder pattern, the AnimalBuilder example does not show 
   why adding more fields to the constructor (or however they choose to expand the class) is handled in a more 
   maintainable manner.
+  
+- Find some tutorials on generics, because writing the sample from page 114 doesn't tie up, if the class has a generic type and you don't specify the formal type parameter like "public static <T> Crate<T> ship(T t)", it does not compile.
+Perhaps because the method is static...
+public class Crate<T> {
+
+    public static Crate<T> ship(T t) {
+        System.out.println("Preparing " + t);
+        return new Crate<T>();
+    }
+}
 <!-- //Parking lot -->
