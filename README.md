@@ -1,4 +1,4 @@
-- Continue page 120 (+-172/723) from "Something interesting happens"
+- Continue page 122 (+-172/723) from "Understanding Generic Supertypes"
     - Going through db singleton example from (8m12s) https://www.youtube.com/watch?v=NZaXM67fxbs
 - Simple tutorial on enums: https://www.mkyong.com/java/java-enum-example/ 
     
@@ -136,5 +136,7 @@ public class Crate{
     7: birds.add(new Sparrow()); // DOES NOT COMPILE
     8: birds.add(new Bird()); // DOES NOT COMPILE
     9: }
+    
+- Go through bounded generics again after completing the book
 
 <!-- //Parking lot -->
