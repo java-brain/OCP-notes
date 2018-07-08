@@ -95,6 +95,10 @@
 
 - Collections written without generics are also known as "raw collections".
 
+- $ javac *.java to compile all .java files within the location you're pointing to
+- javac -Xlint:unchecked *.java 
+    Passing this flag will elaborate on the warning
+
 <!-- Parking lot -->
 - Revisit "Handling Mutable Objects in the Constructors of Immutable Objects" from the top of page 85, I don't get why 
   this gives the ability to change the List...
@@ -123,8 +127,14 @@ public class Crate{
     }
 }
 
-- $ javac *.java to compile all .java files within the location you're pointing to
-- javac -Xlint:unchecked *.java 
-    Passing this flag will elaborate on the warning
+- The following from page 120 does not compile, not following why...
+    2: static class Sparrow extends Bird { }
+    3: static class Bird { }
+    4:
+    5: public static void main(String[] args) {
+    6: List<? extends Bird> birds = new ArrayList<Bird>();
+    7: birds.add(new Sparrow()); // DOES NOT COMPILE
+    8: birds.add(new Bird()); // DOES NOT COMPILE
+    9: }
 
 <!-- //Parking lot -->
