@@ -1,4 +1,4 @@
-- Continue page 122 (+-172/723) from "Understanding Generic Supertypes"
+- Continue page 124 (+-176/723) from "Now be careful"
     - Going through db singleton example from (8m12s) https://www.youtube.com/watch?v=NZaXM67fxbs
 - Simple tutorial on enums: https://www.mkyong.com/java/java-enum-example/ 
     
