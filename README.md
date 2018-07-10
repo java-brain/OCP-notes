@@ -1,4 +1,4 @@
-- Continue page 126 (+-178/723) from "A List allows duplicates"
+- Continue page 127 (+-178/723) from "clear()"
     - Going through db singleton example from (8m12s) https://www.youtube.com/watch?v=NZaXM67fxbs
 - Simple tutorial on enums: https://www.mkyong.com/java/java-enum-example/ 
     
