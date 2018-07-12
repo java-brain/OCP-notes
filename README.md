@@ -142,4 +142,7 @@ public class Crate{
 
 - Ensure you go through table 3.7 and 3.8 (page 140 and 141) and be able to recall the differences before writing
 
+- According to Unicode character mapping and as far as the exam is concerned: numbers sort before letters and uppercase letters
+  sort before lowercase letters.
+
 <!-- //Parking lot -->
