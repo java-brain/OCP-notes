@@ -139,4 +139,6 @@ public class Crate{
     
 - Go through bounded generics again after completing the book
 
+- Ensure you go through table 3.7 and 3.8 (page 140 and 141) and be able to recall the differences before writing
+
 <!-- //Parking lot -->
