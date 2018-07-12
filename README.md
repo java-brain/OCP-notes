@@ -1,4 +1,5 @@
-- Continue page 140 (+-191/723) from top
+- Continue page 143 (+-191/723) from "Comparator vs. Comparable"
+
     - Going through db singleton example from (8m12s) https://www.youtube.com/watch?v=NZaXM67fxbs
 - Simple tutorial on enums: https://www.mkyong.com/java/java-enum-example/ 
     
