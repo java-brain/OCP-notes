@@ -1,4 +1,4 @@
-- Continue page 153 (+-203/723) from "Not bad. There’s a bit of redundancy, though"
+- Continue page 155 (+-203/723) from "Updating all elements"
 
     - Going through db singleton example from (8m12s) https://www.youtube.com/watch?v=NZaXM67fxbs
 - Simple tutorial on enums: https://www.mkyong.com/java/java-enum-example/ 
@@ -145,4 +145,5 @@ public class Crate{
 - According to Unicode character mapping and as far as the exam is concerned: numbers sort before letters and uppercase letters
   sort before lowercase letters.
 
+- Go through java brains lambdas, especially the :: example
 <!-- //Parking lot -->
