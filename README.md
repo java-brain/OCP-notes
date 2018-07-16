@@ -1,4 +1,4 @@
-- Continue page 152 (+-203/723) from "Using Method References"
+- Continue page 153 (+-203/723) from "Not bad. There’s a bit of redundancy, though"
 
     - Going through db singleton example from (8m12s) https://www.youtube.com/watch?v=NZaXM67fxbs
 - Simple tutorial on enums: https://www.mkyong.com/java/java-enum-example/ 
