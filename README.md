@@ -1,4 +1,4 @@
-- Continue page 151 (+-203/723) from "sort() and binarySearch() allow you to pass"
+- Continue page 152 (+-203/723) from "Using Method References"
 
     - Going through db singleton example from (8m12s) https://www.youtube.com/watch?v=NZaXM67fxbs
 - Simple tutorial on enums: https://www.mkyong.com/java/java-enum-example/ 
