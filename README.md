@@ -1,4 +1,4 @@
-- Continue page 155 (+-203/723) from "Updating all elements"
+- Continue page 157 (+-205/723) from "The merge() method also has logic"
 
     - Going through db singleton example from (8m12s) https://www.youtube.com/watch?v=NZaXM67fxbs
 - Simple tutorial on enums: https://www.mkyong.com/java/java-enum-example/ 
