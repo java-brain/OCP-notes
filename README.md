@@ -146,4 +146,6 @@ public class Crate{
   sort before lowercase letters.
 
 - Go through java brains lambdas, especially the :: example
+
+- Remember to view the exam criteria that may have changed on https://www.selikoff.net/java-ocp-8-programmer-ii-study-guide/
 <!-- //Parking lot -->
