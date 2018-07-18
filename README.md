@@ -1,4 +1,4 @@
-- Continue page 159 (+-210/723) from "Summary"
+- Continue page 162 (+-210/723) from "Review question 1"
 
     - Going through db singleton example from (8m12s) https://www.youtube.com/watch?v=NZaXM67fxbs
 - Simple tutorial on enums: https://www.mkyong.com/java/java-enum-example/ 
@@ -148,4 +148,6 @@ public class Crate{
 - Go through java brains lambdas, especially the :: example
 
 - Remember to view the exam criteria that may have changed on https://www.selikoff.net/java-ocp-8-programmer-ii-study-guide/
+
+- Go through chapter 3 again after finishing the book, it's too much to take in
 <!-- //Parking lot -->
