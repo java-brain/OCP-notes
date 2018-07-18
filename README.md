@@ -1,4 +1,4 @@
-- Continue page 158 (+-210/723) from "The function interface is a BiFunction again"
+- Continue page 159 (+-210/723) from "Summary"
 
     - Going through db singleton example from (8m12s) https://www.youtube.com/watch?v=NZaXM67fxbs
 - Simple tutorial on enums: https://www.mkyong.com/java/java-enum-example/ 
