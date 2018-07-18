@@ -1,4 +1,4 @@
-- Continue page 157 (+-205/723) from "The merge() method also has logic"
+- Continue page 158 (+-210/723) from "The function interface is a BiFunction again"
 
     - Going through db singleton example from (8m12s) https://www.youtube.com/watch?v=NZaXM67fxbs
 - Simple tutorial on enums: https://www.mkyong.com/java/java-enum-example/ 
