@@ -1,9 +1,4 @@
-- Continue page 164 (+-210/723) from "Review question 8" after marking:
-    1) A. Arrays
-    2) B. HashMap
-    3) C. onetwo followed by an exception
-    4) E.
-    5) A, B, F.
+- Continue page 164 (+-210/723) from "Review question 10"
 
     - Going through db singleton example from (8m12s) https://www.youtube.com/watch?v=NZaXM67fxbs
 - Simple tutorial on enums: https://www.mkyong.com/java/java-enum-example/ 
