@@ -1,4 +1,4 @@
-- Continue page 166 (+-218/723) from "Review question 13"
+- Continue page 168 (+-218/723) from "Review question 18"
 
     - Going through db singleton example from (8m12s) https://www.youtube.com/watch?v=NZaXM67fxbs
 - Simple tutorial on enums: https://www.mkyong.com/java/java-enum-example/ 
