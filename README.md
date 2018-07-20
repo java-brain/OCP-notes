@@ -152,4 +152,6 @@ public class Crate{
 - Go through chapter 3 again after finishing the book, it's too much to take in.
 
 - Chapter 3, question 7 "The output is indeterminate"?
+
+- Chapter 3, question 15, why does it return -1 and why is it undefined?
 <!-- //Parking lot -->
