@@ -99,6 +99,9 @@
 - $ javac *.java to compile all .java files within the location you're pointing to
 - javac -Xlint:unchecked *.java 
     Passing this flag will elaborate on the warning
+    
+- LinkedList implements both 'List' and 'Queue'. The List interface has a method to remove by index. Since the method exists, Java does not autobox to call the other method. Queue has only the remove object method.
+Refer to question 19 from chapter 3 for an example.
 
 <!-- Parking lot -->
 - Revisit "Handling Mutable Objects in the Constructors of Immutable Objects" from the top of page 85, I don't get why 
