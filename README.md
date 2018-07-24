@@ -1,4 +1,4 @@
-- Continue page 174 (+-226/723) from top
+- Continue page 176 (+-226/723) from "This example prints Annie twice"
 
     - Going through db singleton example from (8m12s) https://www.youtube.com/watch?v=NZaXM67fxbs
 - Simple tutorial on enums: https://www.mkyong.com/java/java-enum-example/ 
