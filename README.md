@@ -157,4 +157,6 @@ public class Crate{
 - Chapter 3, question 7 "The output is indeterminate"?
 
 - Chapter 3, question 15, why does it return -1 and why is it undefined?
+
+- Keep in mind from page 178: Real world scenario, the default methods on Predicate.
 <!-- //Parking lot -->
