@@ -1,4 +1,4 @@
-- Continue page 180 (+-232/723) from "Implementing UnaryOperator and BinaryOperator"
+- Continue page 182 (+-232/723) from top
 
     - Going through db singleton example from (8m12s) https://www.youtube.com/watch?v=NZaXM67fxbs
 - Simple tutorial on enums: https://www.mkyong.com/java/java-enum-example/ 
