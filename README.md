@@ -1,4 +1,4 @@
-- Continue page 196 (+-248/723) from "reduce"
+- Continue page 198 (+-248/723) from "flatMap()"
 
     - Going through db singleton example from (8m12s) https://www.youtube.com/watch?v=NZaXM67fxbs
 - Simple tutorial on enums: https://www.mkyong.com/java/java-enum-example/ 
