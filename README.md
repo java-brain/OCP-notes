@@ -1,4 +1,4 @@
-- Continue page 208 (+-260/723) from "Using Optional with Primitive Streams"
+- Continue page 210 (+-260/723) from "Summarizing statistics"
 
     - Going through db singleton example from (8m12s) https://www.youtube.com/watch?v=NZaXM67fxbs
 - Simple tutorial on enums: https://www.mkyong.com/java/java-enum-example/ 
