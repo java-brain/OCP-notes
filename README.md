@@ -1,4 +1,4 @@
-- Continue page 210 (+-260/723) from "Summarizing statistics"
+- Continue page 210 (+-262/723) from "Summarizing statistics"
 
     - Going through db singleton example from (8m12s) https://www.youtube.com/watch?v=NZaXM67fxbs
 - Simple tutorial on enums: https://www.mkyong.com/java/java-enum-example/ 
