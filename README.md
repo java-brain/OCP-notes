@@ -1,4 +1,4 @@
-- Continue page 212 (+-264/723) from "There are a few things to notice"
+- Continue page 215 (+-267/723) from "The final case"
 
     - Going through db singleton example from (8m12s) https://www.youtube.com/watch?v=NZaXM67fxbs
 - Simple tutorial on enums: https://www.mkyong.com/java/java-enum-example/ 
