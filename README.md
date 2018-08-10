@@ -1,4 +1,4 @@
-- Continue page 222 (+-274/723) from "Debugging Complicated Generics"
+- Continue page 226 (+-274/723) from Review Question 1
 
     - Going through db singleton example from (8m12s) https://www.youtube.com/watch?v=NZaXM67fxbs
 - Simple tutorial on enums: https://www.mkyong.com/java/java-enum-example/ 
