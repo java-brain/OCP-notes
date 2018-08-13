@@ -4,3 +4,6 @@ Figuring out how far apart are these moments in time, to approach a problem like
 
 2015-06-20T07:50+02:00[Europe/Paris] // GMT 2015-06-20 5:50
 2015-06-20T06:50+05:30[Asia/Kolkata] // GMT 2015-06-20 1:20
+
+Note:
+  The time zone offset can be listed in different ways: +02:00, GMT+2, and UTC+2 all mean the same thing. You might see any of them on the   exam.
