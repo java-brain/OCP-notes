@@ -10,3 +10,8 @@ Note:
 
   The examples in the book will be using U.S. date and time formats as will the questions on the exam. Java tends to use a 24-hour clock
   even though the United States uses a 12-hour clock with a.m./p.m
+
+Method signatures:
+  public static LocalDate of(int year, int month, int dayOfMonth)
+  public static LocalDate of(int year, Month month, int dayOfMonth)
+  
