@@ -7,3 +7,6 @@ Figuring out how far apart are these moments in time, to approach a problem like
 
 Note:
   The time zone offset can be listed in different ways: +02:00, GMT+2, and UTC+2 all mean the same thing. You might see any of them on the   exam.
+
+  The examples in the book will be using U.S. date and time formats as will the questions on the exam. Java tends to use a 24-hour clock
+  even though the United States uses a 12-hour clock with a.m./p.m
