@@ -1,4 +1,4 @@
-- Continue page 252 (+-301/723) from "Another way to look at it"
+- Continue page 255 (+-307/723) from "And now for another"
 
     - Going through db singleton example from (8m12s) https://www.youtube.com/watch?v=NZaXM67fxbs
 - Simple tutorial on enums: https://www.mkyong.com/java/java-enum-example/ 
